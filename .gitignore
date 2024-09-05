@@ -28,4 +28,6 @@ htmlcov/
 .envrc
 .direnv
 
+.env_file
+
 .github/**
